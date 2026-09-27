@@ -2,7 +2,7 @@
 
 A modern, high-performance developer portfolio engineered with **Next.js**, **Tailwind CSS**, and **Framer Motion**. Designed with an editorial aesthetic, interactive graph simulations, and a modular component architecture.
 
-🔗 **Live Demo:** [View Live Portfolio](https://portfolio-mu-blue-25.vercel.app/) *(Replace with your actual Vercel domain)*
+🔗 **Live Demo:** [View Live Portfolio](https://portfolio-mu-blue-25.vercel.app/) 
 
 ---
 
